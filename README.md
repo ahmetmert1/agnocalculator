@@ -1,16 +1,37 @@
-# agnocalculator
+#  AGNO Calculator
 
-A new Flutter project.
+<b>AGNO Calculator, Flutter ile yapılmış basit bir agno hesaplama uygulamasıdır.</b>
 
-## Getting Started
+<img src="agnocalculator/AGNO.PNG">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulamanın Amacı
+Kullanıcıların dönem içinde aldığı derslerin nihai sonuçlarını derslere ait olan Kredi sayısı ve dersten alınan not ile girilip, derslerin ortalamaya nasıl etki ettiğini görmektir.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Eklenen Dersler sağa kaydırılarak (Dismiss edilerek) listeden kaldırılabilir ve güncel ortalamaya ulaşılabilmektedir.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="agnocalculator/dersYok.png" width="250" height="500"> <img src="agnocalculator/dersEklenmis.png" width="250" height="500"> <img src="agnocalculator/dersSilinir.png" width="280" height="500"> 
+
+## Nasıl Kullanılır?
+Ekrandaki form alanındaki gerekli yerlere derslerle ilgili veriler girildikten sonra ok tuşuna basılıp kaydedilir.
+Kaydedilen ders aşağıda listenmeyele alınır ve verileri genel verilere dahil edilir.
+
+
+ 
+# 💻 Teknolojiler 
+- Dart 
+- Flutter 
+- VS Code
+
+
+
+
+
+
+
+
+
+
+[Linkedin](https://www.linkedin.com/in/ahmet-mert-öz)
+
+[E-posta](ahmetmertoz11@gmail.com)
