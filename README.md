@@ -14,7 +14,7 @@ Eklenen Dersler sağa kaydırılarak (Dismiss edilerek) listeden kaldırılabili
 
 ## Nasıl Kullanılır?
 Ekrandaki form alanındaki gerekli yerlere derslerle ilgili veriler girildikten sonra ok tuşuna basılıp kaydedilir.
-Kaydedilen ders aşağıda listenmeyele alınır ve verileri genel verilere dahil edilir.
+Kaydedilen ders aşağıda listelenmeye alınır ve verileri genel verilere dahil edilir.
 
 ## Nasıl Kurulur?
 👉[APK Dosyası](https://github.com/ahmetmert1/agnocalculator/blob/master/app-release.apk)👈 'na tıklayarak indirimi tamamladıktan sonra telefonunuza kurup uygulamayı kullanabilirsiniz.
